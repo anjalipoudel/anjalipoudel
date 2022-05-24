@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @anjalipoudel
+- 👀 I’m interested in Frontend Web Development and UI/UX Designing
+- 🌱 I’m currently learning HTML/CSS and JS
